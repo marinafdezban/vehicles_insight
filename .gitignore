@@ -134,6 +134,8 @@ dmypy.json
 # PyCharm
 .idea
 
+data_up
+
 data_up/credentials/credentials.py
 
 data_up/credentials/simple_script.py
