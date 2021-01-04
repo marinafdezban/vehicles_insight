@@ -136,7 +136,7 @@ dmypy.json
 
 data_up/credentials/credentials.py
 
-
+data_up/credentials/simple_script.py
 
 
 
